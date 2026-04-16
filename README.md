@@ -1,4 +1,4 @@
-# Lab6-ML
+# Lab7-ML
 RASEEL ABDULLAH ALJABR 2240005469 
 
 The assignment was carried out by carefully following the instructor’s notebook, replicating each step of data preprocessing, exploratory analysis, and model development, which resulted in outcomes aligned with the reference solution.
